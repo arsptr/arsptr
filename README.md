@@ -2,9 +2,7 @@
 - 👀 I’m interested in design and front-end developer
 - 🌱 I’m currently learning UI/UX and Front-End Developer
 - ✨ I’m looking to collaborate on small project like website development or mobile application design
-- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/arsptr/- 
-- 🔗 How to reach me @ instagram : https://www.instagram.com/arsptr_/
-- 📧 If you looking for a junior front-end developer, you can email me : ariawisaputra@gmail.com
+- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/arsptr/ 
 
 Four things about me :
 
